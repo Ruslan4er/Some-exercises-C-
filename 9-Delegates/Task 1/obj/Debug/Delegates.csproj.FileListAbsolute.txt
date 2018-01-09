@@ -1,0 +1,14 @@
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\BSUIR\Курсы\C#\Упражнения\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\obj\Debug\Delegates.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\bin\Debug\Delegates.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\Delegates\bin\Debug\Delegates.pdb
