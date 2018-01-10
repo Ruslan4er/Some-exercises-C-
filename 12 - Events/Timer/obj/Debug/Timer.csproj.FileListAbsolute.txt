@@ -1,0 +1,10 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\bin\Debug\Timer.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\bin\Debug\Timer.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\bin\Debug\Timer.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.Form1.resources
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,7 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\bin\Debug\12 - Events.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\bin\Debug\12 - Events.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\bin\Debug\12 - Events.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\obj\Debug\12 - Events.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\obj\Debug\12 - Events.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\obj\Debug\12 - Events.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\12 - Events\12 - Events\obj\Debug\12 - Events.pdb
