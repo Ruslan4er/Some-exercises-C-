@@ -1,0 +1,7 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\bin\Debug\Task 3.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\bin\Debug\Task 3.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\bin\Debug\Task 3.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\obj\Debug\Task 3.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\obj\Debug\Task 3.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\Task 3\obj\Debug\Task 3.csprojResolveAssemblyReference.cache

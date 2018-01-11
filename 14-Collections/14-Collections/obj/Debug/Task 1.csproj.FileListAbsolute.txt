@@ -1,0 +1,6 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\obj\Debug\14-Collections.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\obj\Debug\14-Collections.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\bin\Debug\14-Collections.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\bin\Debug\14-Collections.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\14-Collections\14-Collections\bin\Debug\14-Collections.pdb
