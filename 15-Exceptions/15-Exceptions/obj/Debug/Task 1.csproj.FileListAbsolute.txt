@@ -1,0 +1,7 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\bin\Debug\15-Exceptions.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\bin\Debug\15-Exceptions.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\bin\Debug\15-Exceptions.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\obj\Debug\15-Exceptions.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\15-Exceptions\15-Exceptions\obj\Debug\15-Exceptions.pdb
