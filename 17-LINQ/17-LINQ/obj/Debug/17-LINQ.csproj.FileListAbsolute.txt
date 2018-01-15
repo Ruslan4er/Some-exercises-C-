@@ -1,0 +1,7 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\bin\Debug\17-LINQ.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\bin\Debug\17-LINQ.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\bin\Debug\17-LINQ.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\obj\Debug\17-LINQ.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\obj\Debug\17-LINQ.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\obj\Debug\17-LINQ.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\17-LINQ\17-LINQ\obj\Debug\17-LINQ.pdb
