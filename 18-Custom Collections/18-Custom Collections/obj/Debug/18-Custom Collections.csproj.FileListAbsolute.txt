@@ -1,0 +1,7 @@
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\bin\Debug\18-Custom Collections.exe.config
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\bin\Debug\18-Custom Collections.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\bin\Debug\18-Custom Collections.pdb
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\obj\Debug\18-Custom Collections.csprojResolveAssemblyReference.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\obj\Debug\18-Custom Collections.csproj.CoreCompileInputs.cache
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\obj\Debug\18-Custom Collections.exe
+D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\18-Custom Collections\18-Custom Collections\obj\Debug\18-Custom Collections.pdb
