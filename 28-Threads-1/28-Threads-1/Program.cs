@@ -21,7 +21,7 @@ namespace _28_Threads_1
                     // Interlocked.Increment(ref counter);
                     counter++;
                     Console.WriteLine("Счетчик - {0}, поток № {1}",
-                        counter, Thread.CurrentThread.GetHashCode());
+                        counter, Thread.CurrentThread.ManagedThreadId);
                 }
             }
         }
