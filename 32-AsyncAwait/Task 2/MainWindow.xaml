@@ -1,0 +1,15 @@
+﻿<Window x:Class="Task_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="372.368" Width="600">
+    <Grid>
+        <Button x:Name="ConnectDBButton" Content="Button" HorizontalAlignment="Left" Margin="131,191,0,0" VerticalAlignment="Top" Width="75" Click="ConnectDBButton_Click"/>
+        <Button x:Name="DisconnectDBButton" Content="Button" HorizontalAlignment="Left" Margin="282,191,0,0" VerticalAlignment="Top" Width="75" Click="DisconnectDBButton_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="321" Margin="454,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
