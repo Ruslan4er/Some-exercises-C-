@@ -1,7 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\bin\Debug\10-Generics.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\bin\Debug\10-Generics.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\bin\Debug\10-Generics.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\obj\Debug\10-Generics.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\10-Generics\10-Generics\obj\Debug\10-Generics.pdb

@@ -1,7 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\bin\Debug\13-Threads.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\bin\Debug\13-Threads.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\bin\Debug\13-Threads.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\obj\Debug\13-Threads.csprojResolveAssemblyReference.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\obj\Debug\13-Threads.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\obj\Debug\13-Threads.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\13-Threads\13-Threads\obj\Debug\13-Threads.pdb

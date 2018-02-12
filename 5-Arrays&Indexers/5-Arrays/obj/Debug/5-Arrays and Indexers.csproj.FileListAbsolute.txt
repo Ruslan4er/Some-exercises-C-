@@ -1,7 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\bin\Debug\5-Arrays.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\bin\Debug\5-Arrays.exe
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\bin\Debug\5-Arrays.pdb
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\obj\Debug\5-Arrays and Indexers.csprojResolveAssemblyReference.cache
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\obj\Debug\5-Arrays and Indexers.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\obj\Debug\5-Arrays.exe
-D:\BSUIR\Курсы\C#\Упражнения\5-Arrays\5-Arrays\obj\Debug\5-Arrays.pdb

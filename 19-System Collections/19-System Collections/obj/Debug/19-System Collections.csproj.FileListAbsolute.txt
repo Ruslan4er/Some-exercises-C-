@@ -1,6 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\bin\Debug\19-System Collections.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\bin\Debug\19-System Collections.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\bin\Debug\19-System Collections.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\obj\Debug\19-System Collections.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\obj\Debug\19-System Collections.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\19-System Collections\19-System Collections\obj\Debug\19-System Collections.pdb

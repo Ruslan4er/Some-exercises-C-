@@ -1,7 +1,0 @@
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\bin\Debug\Task 2- cloning.exe.config
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\bin\Debug\Task 2- cloning.exe
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\bin\Debug\Task 2- cloning.pdb
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\obj\Debug\Task 2- cloning.csprojResolveAssemblyReference.cache
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\obj\Debug\Task 2- cloning.csproj.CoreCompileInputs.cache
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\obj\Debug\Task 2- cloning.exe
-c:\users\руслан\source\repos\16-Operators\Task 2- cloning\obj\Debug\Task 2- cloning.pdb

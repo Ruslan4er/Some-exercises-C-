@@ -1,6 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\bin\Debug\20-IO.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\bin\Debug\20-IO.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\bin\Debug\20-IO.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\obj\Debug\20-IO.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\20-IO\20-IO\obj\Debug\20-IO.pdb

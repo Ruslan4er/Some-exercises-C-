@@ -1,6 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\bin\Debug\App_2.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\bin\Debug\App_2.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\bin\Debug\App_2.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\obj\Debug\App_2.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\obj\Debug\App_2.exe
-D:\BSUIR\Курсы\C#\Упражнения\Some-exercises-C-\9-Delegates\App_2\obj\Debug\App_2.pdb

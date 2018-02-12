@@ -1,7 +1,0 @@
-c:\users\руслан\source\repos\16-Operators\16-Operators\bin\Debug\16-Operators.exe.config
-c:\users\руслан\source\repos\16-Operators\16-Operators\bin\Debug\16-Operators.exe
-c:\users\руслан\source\repos\16-Operators\16-Operators\bin\Debug\16-Operators.pdb
-c:\users\руслан\source\repos\16-Operators\16-Operators\obj\Debug\16-Operators.csprojResolveAssemblyReference.cache
-c:\users\руслан\source\repos\16-Operators\16-Operators\obj\Debug\16-Operators.csproj.CoreCompileInputs.cache
-c:\users\руслан\source\repos\16-Operators\16-Operators\obj\Debug\16-Operators.exe
-c:\users\руслан\source\repos\16-Operators\16-Operators\obj\Debug\16-Operators.pdb

@@ -1,7 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\bin\Debug\Static_and_Including Classes.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\bin\Debug\Static_and_Including Classes.exe
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\bin\Debug\Static_and_Including Classes.pdb
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\obj\Debug\6-Static_and_Including Classes.csprojResolveAssemblyReference.cache
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\obj\Debug\6-Static_and_Including Classes.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\obj\Debug\Static_and_Including Classes.exe
-D:\BSUIR\Курсы\C#\Упражнения\Static_and_Including Classes\Static_and_Including Classes\obj\Debug\Static_and_Including Classes.pdb

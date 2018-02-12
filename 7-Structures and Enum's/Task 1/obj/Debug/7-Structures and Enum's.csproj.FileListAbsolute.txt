@@ -1,7 +1,0 @@
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\bin\Debug\7-Structures and Enum's.exe.config
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\bin\Debug\7-Structures and Enum's.exe
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\bin\Debug\7-Structures and Enum's.pdb
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\obj\Debug\7-Structures and Enum's.csprojResolveAssemblyReference.cache
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\obj\Debug\7-Structures and Enum's.csproj.CoreCompileInputs.cache
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\obj\Debug\7-Structures and Enum's.exe
-D:\BSUIR\Курсы\C#\Упражнения\7-Structures and Enum's\7-Structures and Enum's\obj\Debug\7-Structures and Enum's.pdb
