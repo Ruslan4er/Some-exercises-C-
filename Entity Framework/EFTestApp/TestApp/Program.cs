@@ -3,39 +3,51 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
+using Console = System.Console;
 
 namespace TestApp
 {
-    interface IInterface
+    class MyClass
     {
+        static MyClass()
+        {
+            Console.WriteLine("Static base");
+        }
 
-        void SomeWork();
+        public MyClass()
+        {
+            Console.WriteLine("Base");
+        }
     }
+
+    class MyClass1 : MyClass
+    {
+        static MyClass1()
+        {
+            Console.WriteLine("Static derived ");
+        }
+
+        public MyClass1()
+        {
+            Console.WriteLine("Derived");
+        }
+    }
+
+
+
 
     class Program
     {
-        private double s = 23;
 
         static void Main(string[] args)
         {
-            if (b)
-            {
-                int a =sizeof(s);
-            }
-            else
-            {
-                
-            }
-
-            Console.WriteLine(2+2+);
-            int i;
-            for (i = 0; i < UPPER; i++)
-            {
-                int [,] A = new int[4,5];
-                Console.WriteLine(A.GetLength(1));
-            }
+            MyClass my = new MyClass1();
+            
         }
-      
+
+
     }
+
 }
