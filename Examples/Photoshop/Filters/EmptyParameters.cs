@@ -6,7 +6,7 @@ using MyPhotoshop.Filters;
 
 namespace MyPhotoshop
 {
-    class EmptyParameters:IParameters
+    public class EmptyParameters:IParameters
     {
         public ParameterInfo[] GetDescription()
         {

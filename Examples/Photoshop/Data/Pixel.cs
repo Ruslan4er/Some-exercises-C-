@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace MyPhotoshop.Data
 {
@@ -10,9 +7,9 @@ namespace MyPhotoshop.Data
         public Pixel(double r, double g, double b)
             : this()
         {
-            this.R = r;
-            this.G = g;
-            this.B = b;
+            R = r;
+            G = g;
+            B = b;
         }
 
         private double Check(double value)
@@ -51,16 +48,15 @@ namespace MyPhotoshop.Data
         public static double Trim(double value)
         {
             if (value < 0) return 0;
-            if (value > 1) return 1;
-            return value;
+            return value > 1 ? 1 : value;
         }
 
         public static Pixel operator *(Pixel pixel, double value)
         {
             return new Pixel(
-                Pixel.Trim(pixel.R * value),
-                Pixel.Trim(pixel.G * value),
-                Pixel.Trim(pixel.B * value)
+                Trim(pixel.R * value),
+                Trim(pixel.G * value),
+                Trim(pixel.B * value)
                 );
         }
 
