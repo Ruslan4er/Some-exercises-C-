@@ -1,0 +1,23 @@
+﻿@model TestWebApplication.Models.Book
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(book => book.Name, "Название книги")
+    <br />
+    @Html.EditorFor(book => book.Name)
+    <br />
+    @Html.LabelFor(book => book.Author, "Автор")
+    <br />
+    @Html.EditorFor(book => book.Author)
+    <br />
+    @Html.LabelFor(book => book.Price,"Цена")
+    <br />
+    @Html.EditorFor(book => book.Price)
+    <br /><br />
+    <input type="submit" value="Добавить"/>
+
+}

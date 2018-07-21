@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="description" content="Сайт об HTML и создании сайтов"> 
+</head>
+
+<body>
+
+<script>
+
+function Calculator() {
+
+  this.operators = {
+    "+": function (a,b) {
+      return a+b;
+        },
+    "-": function (a,b) {
+      return a-b;      
+    }
+  }
+
+  this.calculate= function (str) {
+    var param = str.split(' '),
+    a= +param[0],
+    b= +param[2],
+    operator = param[1];
+   
+    return this.operators[operator](a,b) ;
+    };
+
+    this.addOperator = function(name,func){
+      this.operators[name] = func;
+    };
+};
+var calc = new Calculator();
+alert(calc.calculate("1 + 2"));
+alert(calc.calculate("1 - 2"));
+calc.addOperator("*", (a,b)=>{return a*b;});
+calc.addOperator("/", (a,b)=>{return a/b;});
+
+alert(calc.calculate("2 * 2"));
+alert(calc.calculate("2 / 10"));
+
+
+
+
+</script>
+
+</body>
+
+</html>

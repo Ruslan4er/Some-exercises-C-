@@ -1,0 +1,26 @@
+﻿@model ManyToMany.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Информация о студентах</h2>
+
+<div class="display-label"><b>Имя</b></div>
+<div class="display-field">
+    @Html.DisplayFor(m => m.Name)
+</div>
+
+<div class="display-label"><b>Фамилия</b></div>
+<div class="display-field">
+    @Html.DisplayFor(m => m.SurName)
+</div>
+
+<div class="display-label"><b>Курсы</b></div>
+<div class="display-field"></div>
+<ul>
+    @foreach (var c in Model.Courses)
+    {
+        <li>@c.Name</li>
+    }
+</ul>

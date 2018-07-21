@@ -1,0 +1,35 @@
+﻿@model ManyToMany.Models.Student
+
+@{
+    ViewBag.Title = "DataDetails";
+}
+
+<h2>DataDetails</h2>
+
+@Html.DisplayForModel()
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SurName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SurName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

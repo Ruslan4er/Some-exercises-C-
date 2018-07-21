@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="description" content="Сайт об HTML и создании сайтов"> 
+</head>
+
+<body>
+
+<script>
+
+
+function User(fullName){
+
+  this.fullName = fullName;
+ 
+  Object.defineProperties(this,{
+
+  firstName: {
+  get: function(){
+    return this.fullName.split(" ")[0]
+    },
+
+  set: function(value){
+     this.fullName = value + " " + this.fullName.split(" ")[1];
+  }},
+
+  secondName: {
+  get: function(){
+    return this.fullName.split(" ")[1]
+    },
+
+  set: function(value){
+    this.fullName= this.fullName.split(" ")[0] + " " + value;
+  }}
+});
+};
+
+
+var vasya = new User("Василий Иванов");
+vasya.name = "sss";
+
+alert(vasya.firstName);
+vasya.firstName = "Антон";
+alert(vasya.firstName);
+alert(vasya.secondName);
+vasya.secondName = "Сидоров";
+alert(vasya.secondName);
+alert(vasya.fullName);
+
+
+
+
+</script>
+
+</body>
+
+</html>

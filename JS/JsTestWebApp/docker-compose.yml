@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  jstestwebapp:
+    image: jstestwebapp
+    build:
+      context: .\JsTestWebApp
+      dockerfile: Dockerfile

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f197fa30ff2843929e77a76df9fca6bb" Name="Diagram1">
+        <EntityTypeShape EntityType="CarServiceDBModel.Answer" Width="1.5" PointX="10.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.Chapter" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.Question" Width="1.5" PointX="8" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.sysdiagram" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.TestingResult" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.UserProfile" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarServiceDBModel.User" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="CarServiceDBModel.FK_Answers_Questions" ManuallyRouted="false" />
+        <AssociationConnector Association="CarServiceDBModel.FK_Questions_Chapters" ManuallyRouted="false" />
+        <AssociationConnector Association="CarServiceDBModel.FK_TestingResults_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="CarServiceDBModel.FK_UserProfile_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,34 @@
+﻿@model TestWebApplication2.Models.Player
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm())
+{
+<h4>Футболист</h4>
+<p>
+    Имя игрока <br />
+    @Html.EditorFor(m => m.Name)
+</p>
+<p>
+    Возраст <br />
+    @Html.EditorFor(m => m.Age)
+</p>
+<p>
+    Позиция <br />
+    @Html.EditorFor(m => m.Position)
+</p>
+<p>
+    Команда <br />
+    @Html.DropDownListFor(m => m.TeamId, ViewBag.Teams as SelectList)
+</p>
+<p>
+    <input type="submit" value="Добавить игрока"/>
+</p>
+}
+
+<div>
+    @Html.ActionLink("К списку игроков", "Index")
+</div>
+

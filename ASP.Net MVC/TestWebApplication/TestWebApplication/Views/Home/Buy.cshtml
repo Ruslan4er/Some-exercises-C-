@@ -1,0 +1,27 @@
+﻿@model TestWebApplication.Models.Purchase
+    @{
+        ViewBag.Title = "Покупка книги";
+    }
+
+    <div>
+        <h3>Форма оформления заказа</h3>
+
+        @using (Html.BeginForm("Buy", "Home", FormMethod.Post))
+        {
+            @Html.HiddenFor(m => m.BookId)
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(m => m.Person, "Введите своё имя")</td>
+                    <td>@Html.EditorFor(m => m.Person)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(m => m.Adress, "Введите свой адрес")</td>
+                    <td>@Html.EditorFor(m => m.Adress)</td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="Отправить" /> </td>
+                </tr>
+            </table>
+        }
+
+    </div>

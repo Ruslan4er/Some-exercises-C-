@@ -1,0 +1,8 @@
+﻿@model IEnumerable<AjaxWebApp.Models.Book>
+
+<ul>
+    @foreach (var b in Model)
+    {
+        <li>@b.Name</li>
+    }
+</ul>
