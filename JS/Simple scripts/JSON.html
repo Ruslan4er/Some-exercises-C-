@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>description</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="description" content="Сайт об HTML и создании сайтов"> 
+</head>
+
+<body>
+
+<script>
+
+var leader = {
+  id:22,
+  name: "Василий Иванович"
+};
+
+var soldier = {
+  id:362,
+  name: "Петька"
+};
+
+// эти объекты ссылаются друг на друга!
+leader.soldier = soldier;
+soldier.leader = leader;
+
+var team = [leader, soldier];
+
+var result = JSON.stringify(team,["name"]);
+
+alert(result);
+
+var sss= JSON.parse(result);
+
+</script>
+
+</body>
+
+</html>
