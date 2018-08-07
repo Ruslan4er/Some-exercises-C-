@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of responsibility", "Behavioral patterns\Chain of responsibility.csproj", "{A1FEBE9B-ACE9-416F-8E32-C3E4752AFAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{CC83EE26-7192-42C4-816B-3C257541331D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FEBE9B-ACE9-416F-8E32-C3E4752AFAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FEBE9B-ACE9-416F-8E32-C3E4752AFAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FEBE9B-ACE9-416F-8E32-C3E4752AFAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FEBE9B-ACE9-416F-8E32-C3E4752AFAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC83EE26-7192-42C4-816B-3C257541331D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC83EE26-7192-42C4-816B-3C257541331D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC83EE26-7192-42C4-816B-3C257541331D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC83EE26-7192-42C4-816B-3C257541331D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373719F5-847A-4505-88E8-FD0195881A32}
+	EndGlobalSection
+EndGlobal
