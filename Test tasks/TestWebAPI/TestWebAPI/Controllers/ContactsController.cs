@@ -6,6 +6,7 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Description;
 using TestWebAPI.Models;
@@ -23,7 +24,6 @@ namespace TestWebAPI.Controllers
                 return Unauthorized();
             if (Request.Headers.GetValues("token").FirstOrDefault() != superUserToken)
                 return Unauthorized();
-
 
             return Ok(db.Contacts);
         }
@@ -45,27 +45,29 @@ namespace TestWebAPI.Controllers
             if (!Request.Headers.Contains("token"))
                 return Unauthorized();
 
-            if (id == contact.Id)
-            {
-                db.Entry(contact).State = EntityState.Modified;
-
-                db.SaveChanges();
-            }
+            if (id != contact.Id) return BadRequest();
+            db.Entry(contact).State = EntityState.Modified;
+            db.SaveChanges();
             return Ok();
         }
 
         public IHttpActionResult AddContact(Contact contact)
         {
-            if (!Request.Headers.Contains("token"))
-                return Unauthorized();
-
-            if (contact == null)
+            try
             {
+                if (!Request.Headers.Contains("token"))
+                    return Unauthorized();
+
+                if (contact == null) return BadRequest();
+                contact.AccessToken = Request.Headers.GetValues("token").FirstOrDefault();
                 db.Contacts.Add(contact);
                 db.SaveChanges();
+                return Ok();
             }
-
-            return Ok();
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
         }
 
         public IHttpActionResult DeleteContact(int id)
@@ -78,9 +80,7 @@ namespace TestWebAPI.Controllers
             var contact = db.Contacts.Find(id);
 
             if (contact == null)
-            {
                 return NotFound();
-            }
 
             db.Contacts.Remove(contact);
             db.SaveChanges();
@@ -91,9 +91,8 @@ namespace TestWebAPI.Controllers
         protected override void Dispose(bool disposing)
         {
             if (disposing)
-            {
                 db.Dispose();
-            }
+
             base.Dispose(disposing);
         }
     }

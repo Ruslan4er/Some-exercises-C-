@@ -12,7 +12,7 @@ namespace TestWebAPI.Models
         public string Phone { get; set; }
         public string Name { get; set; }
         public string Hobby { get; set; }
-        public string AccesToken { get; set; }
+        public string AccessToken { get; set; }
         public int Age { get; set; }
     }
 }
